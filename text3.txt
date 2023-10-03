@@ -1,3 +1,4 @@
 Hello world!
 Test 2
 Test merge
+One more line!
